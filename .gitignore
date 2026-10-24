@@ -1,0 +1,14 @@
+*.egg-info*
+*.vscode*
+*__pycache__*
+vis*
+!experiments/utils/vis_utils.py
+workspace*
+.venv
+.DS_Store
+jobs/*
+*ignore_me*
+*.pth
+wandb*
+results/*
+assets/OCT-A/
